@@ -7,7 +7,7 @@ sites:
   - name: Site
     url: $BARADDUR_URL
   - name: Blog
-    url: ONERING_URL
+    url: $ONERING_URL
   - name: Painel de gestão
     url: $MORDOR_URL
   - name: API Principal
@@ -19,8 +19,8 @@ status-website:
   cname: status.fieldcontrol.com.br
   logoUrl: https://fieldcontrol.com.br/assets/images/logo.svg
   name: Field Control
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Field Control** Apps Status"
+  introMessage: Pessoas incríveis transformando a prestação de serviços em algo incrivelmente fácil ❤︎
   navbar:
     - title: Status
       href: /
