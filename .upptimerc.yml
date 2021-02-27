@@ -20,7 +20,7 @@ sites:
 
 status-website:
   cname: status.fieldcontrol.com.br
-  logoUrl: https://app.fieldcontrol.com.br/assets/images/logos/field_logo_azul.png
+  logoUrl: https://app.fieldcontrol.com.br/assets/images/logos/f_logo_azul.png
   name: Field Control
   css: ":root { --body-background-color: #ffffff; --nav-border-bottom-color: #f2f2f6; --nav-current-border-bottom-color: #0155FE; }"
   introTitle: "**Field Control** Apps Status"
