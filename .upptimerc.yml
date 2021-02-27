@@ -15,8 +15,20 @@ sites:
     icon: https://app.fieldcontrol.com.br/favicon.ico
   - name: API Principal
     url: $EYEOFSAURON_URL
+  - name: API Autenticação
+    url: $BLACKGATE_URL
   - name: API de Integração
     url: $CARCHOST_URL
+  - name: API Relatórios
+    url: $NARCHOST_URL
+  - name: API Link Cliente
+    url: $GROND_URL
+  - name: API Assinaturas
+    url: $EREBOR_URL
+  - name: API Área do Cliente
+    url: $WARG_URL
+  - name: API Área do Cliente (Administração)
+    url: $WARG_ADMIN_URL
 
 status-website:
   cname: status.fieldcontrol.com.br
