@@ -87,9 +87,9 @@
     "url": "$BLACKGATE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-autenticacao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +98,9 @@
     "timeWeek": 1111,
     "timeMonth": 1012,
     "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-12": 0
+    }
   },
   {
     "name": "API de Integração",
