@@ -184,18 +184,20 @@
     "url": "$WARG_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-area-do-cliente",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1388,
-    "timeDay": 1092,
-    "timeWeek": 1531,
-    "timeMonth": 1487,
-    "timeYear": 1388,
-    "dailyMinutesDown": {}
+    "time": 1430,
+    "timeDay": 6626,
+    "timeWeek": 2860,
+    "timeMonth": 1820,
+    "timeYear": 1430,
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "API Área do Cliente (Administração)",
