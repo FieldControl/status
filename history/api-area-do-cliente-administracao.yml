@@ -1,7 +1,7 @@
 url: $WARG_ADMIN_URL
-status: up
-code: 200
-responseTime: 2439
-lastUpdated: 2022-01-21T23:02:15.768Z
+status: down
+code: 500
+responseTime: 883
+lastUpdated: 2022-01-22T05:57:17.879Z
 startTime: Sat Feb 27 2021 19:10:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
