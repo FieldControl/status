@@ -28,7 +28,7 @@
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.18%",
     "time": 836,
     "timeDay": 202,
@@ -106,19 +106,19 @@
     "url": "$EYEOFSAURON_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-principal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 639,
-    "timeWeek": 738,
-    "timeMonth": 842,
-    "timeYear": 799,
+    "timeDay": 660,
+    "timeWeek": 731,
+    "timeMonth": 837,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 5
     }
   },
   {
