@@ -24,9 +24,9 @@
     "url": "$ONERING_URL",
     "icon": "https://app.fieldcontrol.com.br/favicon.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "78.85%",
+    "uptimeDay": "78.83%",
     "uptimeWeek": "95.46%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.39%",
@@ -74,7 +74,7 @@
       "2021-12-11": 39,
       "2021-12-10": 114,
       "2021-12-05": 9,
-      "2021-11-26": 11
+      "2021-11-26": 4
     }
   },
   {
