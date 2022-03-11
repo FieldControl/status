@@ -24,18 +24,19 @@
     "url": "$ONERING_URL",
     "icon": "https://app.fieldcontrol.com.br/favicon.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.79%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.39%",
     "time": 853,
     "timeDay": 397,
-    "timeWeek": 1416,
-    "timeMonth": 892,
+    "timeWeek": 1460,
+    "timeMonth": 902,
     "timeYear": 878,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-03-08": 14,
       "2022-03-07": 5,
       "2022-03-06": 37,
@@ -75,7 +76,7 @@
       "2021-12-13": 31,
       "2021-12-12": 46,
       "2021-12-11": 39,
-      "2021-12-10": 60
+      "2021-12-10": 10
     }
   },
   {
