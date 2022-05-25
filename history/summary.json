@@ -152,9 +152,9 @@
     "url": "$CARCHOST_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-de-integracao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +163,9 @@
     "timeWeek": 755,
     "timeMonth": 795,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   },
   {
     "name": "API Relatórios",
