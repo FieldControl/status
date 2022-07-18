@@ -1,7 +1,7 @@
 url: $ONERING_URL
-status: down
-code: 502
-responseTime: 11
-lastUpdated: 2022-07-18T04:01:05.829Z
+status: up
+code: 200
+responseTime: 567
+lastUpdated: 2022-07-18T04:26:17.827Z
 startTime: Sat Feb 27 2021 15:48:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
