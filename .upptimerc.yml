@@ -13,6 +13,9 @@ sites:
   - name: Painel de gestão
     url: $MORDOR_URL
     icon: https://app.fieldcontrol.com.br/favicon.ico
+  - name: Painel de gestão de fornecedores
+    url: $MOUNTDOOM_URL
+    icon: https://fornecedores.fieldcontrol.com.br/favicon.ico
   - name: API Principal
     url: $EYEOFSAURON_URL
   - name: API Autenticação
@@ -29,6 +32,8 @@ sites:
     url: $WARG_URL
   - name: API Área do Cliente (Administração)
     url: $WARG_ADMIN_URL
+  - name: API Gestão de Fornecedores
+    url: $SAMMATHNAUR_URL
 
 status-website:
   cname: status.fieldcontrol.com.br
